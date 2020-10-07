@@ -1,3 +1,8 @@
+This is now marked as **deprecated** as BAndysc/VoodooPS2 ELAN touchpad changes was merged into mainline acidanthera/VoodooPS2 starting from version 2.1.7
+
+Thus, please check [acidanthera/VoodooPS2](https://github.com/acidanthera/VoodooPS2/) project for ELAN touchpad support
+
+
 VoodooPS2
 =========
 
